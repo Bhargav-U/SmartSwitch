@@ -12,11 +12,7 @@
 
 
 ## PCB VIEW:
-<p align="center">
-  <img src="https://drive.google.com/uc?id=1aMRqgjlVZi1BJmp6tSKQ1XrNE2D2w1is" alt="Image Description" width="300">
-</p>
-
-<p align="center">
-  <img src="https://drive.google.com/uc?id=1wlMj8XAB2DxawYWAR6VJcplFSa9w1pEb" alt="Image Description" width="300">
-</p>
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://drive.google.com/uc?id=1aMRqgjlVZi1BJmp6tSKQ1XrNE2D2w1is" alt="Image Description" width="500" style="margin-right: 10px;">
+  <img src="https://drive.google.com/uc?id=1wlMj8XAB2DxawYWAR6VJcplFSa9w1pEb" alt="Image Description" width="500">
+</div>
