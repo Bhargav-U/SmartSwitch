@@ -1,9 +1,9 @@
 # SmartSwitch
 ## A simple smart relay 
 
-# version 1
-## I made a simple smart relay pcb that is 7cm X 3cm ,it comes in this small package equipped with esp01,a relay which can hadles loads upto 7A,a switch input.This device will go inside the switch board,enabling you to control a ac device via internet from anywhere in the world
-### There are many such devices in the market with far more advance electronics and features in them,this project is my attempt to understand my skills in making such a device.
+# VERSION 1:
+#### I made a simple smart relay pcb that is 7cm X 3cm ,it comes in this small package equipped with esp01,a relay which can hadles loads upto 7A,a switch input.This device will go inside the switch board,enabling you to control a ac device via internet from anywhere in the world
+##### (There are many such devices in the market with far more advance electronics and features in them,this project is my attempt to understand my skills in making such a device.)
 ## GERBER VIEW:
 
 <p align="center">
