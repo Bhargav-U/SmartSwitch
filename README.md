@@ -8,11 +8,11 @@
 
 <p align="center">
   <img src="https://drive.google.com/uc?id=1v6OnwlNzjeGdCCKdXyIsyxN9hw0ySQK3" alt="Image Description">
-</p>
+<p align="center">
 
 
 ## PCB VIEW:
-<div style="display: flex; justify-content: center;">
-  <img src="https://drive.google.com/uc?id=1aMRqgjlVZi1BJmp6tSKQ1XrNE2D2w1is" alt="Image Description" width="500" style="margin-right: 10px;">
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1aMRqgjlVZi1BJmp6tSKQ1XrNE2D2w1is" alt="Image Description" width="500">
   <img src="https://drive.google.com/uc?id=1wlMj8XAB2DxawYWAR6VJcplFSa9w1pEb" alt="Image Description" width="500">
-</div>
+<p align="center">
